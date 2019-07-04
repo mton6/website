@@ -315,8 +315,6 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  min-height: 80vh;
-  min-width: 60vw;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
